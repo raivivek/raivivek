@@ -11,4 +11,4 @@ These are some of the questions that I attempt to answer by drawing from integra
 
 I am also hooked to open-source software development — an ambitious outgrowth of my personal interest to create [free](https://www.gnu.org/philosophy/free-sw.html) (as in [free speech!](http://c2.com/cgi/wiki?FreeAsInBeer)) and [open-source](http://c2.com/cgi/wiki?OpenSource) content.
 
-Please see the pinned repositories for projects where I have contributed significantly, or read my blog [Shorts](https://raivivek.in).
+Read more on my blog [Shorts](https://raivivek.in).
