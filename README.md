@@ -9,5 +9,5 @@ These are some of the questions that I attempt to answer by drawing from integra
 Read more on my blog [Shorts](https://raivivek.in).
 
   <a href="https://github-readme-stats.vercel.app/api?username=raivivek&show_icons=true">
-    <img width="40%" align="left" alt="Vivek Rai's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=raivivek&show_icons=true&hide_border=true" />
+    <img width="40%" align="right" alt="Vivek Rai's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=raivivek&show_icons=true&hide_border=true" />
   </a>
